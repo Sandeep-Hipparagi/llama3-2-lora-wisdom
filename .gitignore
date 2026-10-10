@@ -1,5 +1,4 @@
 outputs/
-wisdom_llama3_2_lora/
 __pycache__/
 .ipynb_checkpoints/
 *.jsonl
